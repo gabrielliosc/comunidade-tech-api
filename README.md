@@ -31,7 +31,7 @@ Node, TypeScript, Knex, Sqlite, Docker
    git clone https://github.com/gabrielliosc/comunidade-tech-api.git
    ```
 2. Instale o docker em sua máquina
-3. Com o docker crie a imagem do front a partir do Dockerfile
+3. Com o docker crie a imagem do backend a partir do Dockerfile
    ```sh
    docker build . -t "backend"
    ```
