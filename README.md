@@ -41,7 +41,7 @@ Node, TypeScript, Knex, Sqlite, Docker
    ```
 5. Acesse a aplicação na porta 3333
    ```sh
-   http://0.0.0.0:5173/ 
+   http://0.0.0.0:3333/ 
    ```
 
 ## Contato
